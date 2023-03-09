@@ -1,1 +1,3 @@
-hello 
+class hello{
+   publics
+}
