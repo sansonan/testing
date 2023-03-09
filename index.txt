@@ -2,8 +2,10 @@
 	<body>
 		<div>
 		
-		<table></table>
-</div>
+		<table>
+		
+		</table>
+                </div>
 
     </body>
 
